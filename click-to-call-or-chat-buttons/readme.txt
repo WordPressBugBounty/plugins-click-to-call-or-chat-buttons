@@ -2,9 +2,9 @@
 Contributors: digitalblue
 Tags: click to call chat, call us button, call now button, contact bottom button, phone whatsapp button
 Requires at least: 5.2
-Tested up to: 6.1
+Tested up to: 6.7.1
 Requires PHP: 7.0
-Stable tag: 1.5.0
+Stable tag: 1.6.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -105,3 +105,6 @@ You have a caching plugin active on your website and you are looking at a cached
 = 1.5.0 =
 * SEO improvements for Lighthouse report, 
 * Fix Cross Site Scripting vulnerability in admin (thanks to https://patchstack.com/)
+
+= 1.6.0 =
+* Wordpress version updated.

@@ -3,7 +3,7 @@
 Plugin Name: Click to Call or Chat Buttons
 Plugin URI: https://www.digitalblue.ro/click-to-call-or-chat-buttons/
 Description: Mobile visitors will see a call or chat button in your website 
-Version: 1.5.0
+Version: 1.6.0
 Author: DIGITALBLUE
 Author URI: https://www.digitalblue.ro
 License: GPL2
